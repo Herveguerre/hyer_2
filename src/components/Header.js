@@ -1,6 +1,6 @@
 import React from 'react'
-import './Style.css'
-import '../app/globals.css'
+
+
 import Link from 'next/link'
 
 export default function Header() {
